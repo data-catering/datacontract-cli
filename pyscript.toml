@@ -6,7 +6,6 @@ packages = ["pyyaml", "fastjsonschema", "requests", "pydantic"]
 [[fetch]]
 files = [
   "data_contract.py",
-  "export/__init__.py",
   "export/exporter.py",
   "export/exporter_factory.py",
   "export/avro_converter.py",
