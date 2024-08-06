@@ -1,0 +1,16 @@
+
+.code-container {
+  width: 45vw;
+}
+
+.code-container-input {
+  float: left;
+}
+
+.code-container-output {
+  float: right;
+}
+
+.code {
+  height: 80vh;
+}
